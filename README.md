@@ -1,5 +1,5 @@
 Hi, I'm Edwin Karani
 
-I’m working on an productivity app
+I’m working on a productivity app
 
 
