@@ -1,4 +1,4 @@
-Hi, I'm [Edwin Karani]
+Hi, I'm Edwin Karani
 
 I’m working on an productivity app
 
