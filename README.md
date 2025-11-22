@@ -1,4 +1,4 @@
-Hi, I'm Edwin Karani
+Hi, I'm Edwin Kithinji
 
 I’m working on a productivity app
 
