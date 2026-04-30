@@ -1,6 +1,6 @@
 <!-- [yourusername]/[yourusername] -->
 
-## hey, I'm Edwin Kithinji
+## 👋 I'm Edwin Kithinji
 
 backend engineer · nairobi, kenya · building in public
 
@@ -10,7 +10,6 @@ backend engineer · nairobi, kenya · building in public
 [![Writing][writing-badge]][writing-url]
 [![AWS][aws-badge]][aws-url]
 
-*Gopher*
 ---
 
 ### 🛠️ stack & tools
