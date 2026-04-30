@@ -17,7 +17,7 @@
 ---
 
 
-*open to remote backend roles · *
+**`open to remote backend roles · `**
 
 <!-- reference-style links (ForrestKnight style) -->
 [linkedin-badge]: https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white
