@@ -2,7 +2,6 @@
 
 ## Ed 
 
-<br>
 backend engineer · nairobi, kenya · building in public
 
 <!-- social badges -->
@@ -10,8 +9,6 @@ backend engineer · nairobi, kenya · building in public
 [![Site][site-badge]][site-url]
 [![Writing][writing-badge]][writing-url]
 [![AWS][aws-badge]][aws-url]
-
-<br>
 
 **GO** is my primary language.
 i don't write javascript.
@@ -26,7 +23,7 @@ i don't write javascript.
 ---
 
 
-*open to remote backend roles · international teams · good problems*
+*open to remote backend roles · *
 
 <!-- reference-style links (ForrestKnight style) -->
 [linkedin-badge]: https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white
