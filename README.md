@@ -2,7 +2,7 @@
 
 ## hey, i'm Ed 👋
 
-backend engineer · nairobi, kenya · building in public
+**`backend engineer`** 
 
 [![LinkedIn][linkedin-badge]][linkedin-url]
 [![Site][site-badge]][site-url]
