@@ -10,9 +10,7 @@ backend engineer · nairobi, kenya · building in public
 [![Writing][writing-badge]][writing-url]
 [![AWS][aws-badge]][aws-url]
 
-**GO** is my primary language.
-i don't write javascript.
-
+*Gopher*
 ---
 
 ### 🛠️ stack & tools
