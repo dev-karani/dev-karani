@@ -2,7 +2,7 @@
 
 # 🐳Edwin Kithinji
 
-backend engineer · nairobi, kenya · building in public
+**`backend engineer`** · nairobi, kenya · building in public
 
 <!-- social badges -->
 [![LinkedIn][linkedin-badge]][linkedin-url]
