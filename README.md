@@ -5,9 +5,9 @@
 **`backend engineer`** 
 
 <!-- social badges -->
-[![LinkedIn][linkedin-badge]][https://www.edwinkithinji.dev/writeups]
-[![Site][site-badge]][https://www.edwinkithinji.dev/]
-[![Writing][writing-badge]][https://www.edwinkithinji.dev/writeups]
+[![LinkedIn][linkedin-badge]][linkedin-url]
+[![Site][site-badge]][site-url]
+[![Writing][writing-badge]][writing-url]
 ---
 
 
@@ -21,10 +21,10 @@
 
 <!-- reference-style links (ForrestKnight style) -->
 [linkedin-badge]: https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white
-[linkedin-url]: https://linkedin.com/in/yourusername
+[linkedin-url]: www.linkedin.com/in/edwin-kithinji-02b469368
 [site-badge]: https://img.shields.io/badge/yoursite.com-111111?style=flat&logo=google-chrome&logoColor=white
-[site-url]: https://yoursite.com
+[site-url]: https://www.edwinkithinji.dev
 [writing-badge]: https://img.shields.io/badge/writing-333333?style=flat&logo=hashnode&logoColor=white
-[writing-url]: https://yoursite.com/writing
+[writing-url]: https://www.edwinkithinji.dev/writeups
 [aws-badge]: https://img.shields.io/badge/AWS_certified-FF9900?style=flat&logo=amazonaws&logoColor=black
 [aws-url]: https://yoursite.com
