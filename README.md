@@ -1,6 +1,6 @@
 <!-- [yourusername]/[yourusername] -->
 
-## Ed 
+## hey, I'm Edwin Kithinji
 
 backend engineer · nairobi, kenya · building in public
 
