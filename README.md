@@ -20,6 +20,7 @@ i care about **why** systems are designed a certain way before touching a line o
 distributed systems, fintech architecture, and event-driven design are my lane.
 **GO** is my primary language. 
 i don't write javascript.
+
 ---
 
 ### writing & site
