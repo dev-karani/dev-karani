@@ -1,35 +1,25 @@
-preview
-readme.md
-<!-- github profile readme — [yourusername]/[yourusername] -->
+<!-- -->
 
-## hey, i'm [your name] 👋
+## hey, i'm Ed 👋
 
 backend engineer · nairobi, kenya · building in public
 
 ---
 
-### about
-
-final year IT student at PAC University who decided to skip tutorial hell
-and build production-grade backend systems instead.
-i care about **why** systems are designed a certain way before touching a line of code —
-distributed systems, fintech architecture, and event-driven design are my lane.
-**go** is my primary language. i don't write javascript.
-
----
-
-### stack
+### 🛠️Stack & Tools
 
 `Go` `Python` `PostgreSQL` `Redis` `Kafka` `RabbitMQ`
 `gRPC` `Docker` `Kubernetes` `Terraform` `AWS` `OpenTelemetry`
 
 ---
+### About
 
-### currently
-
-- completing **Go for professional developers** — building a workout tracker as the course project
-- next up: **FinTrack REST API** (project 1 of 6) · layered architecture · PostgreSQL · Redis · AWS ECS
-
+final year IT student at PAC University who decided to skip tutorial hell
+and build production-grade backend systems instead.
+i care about **why** systems are designed a certain way before touching a line of code —
+distributed systems, fintech architecture, and event-driven design are my lane.
+**GO** is my primary language. 
+i don't write javascript.
 ---
 
 ### writing & site
