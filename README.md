@@ -12,8 +12,7 @@ backend engineer · nairobi, kenya · building in public
 
 ### about
 
-final year IT student building seriously. Go, distributed systems, fintech architecture.
-i want to understand the design before i write the code. i don't write javascript.
+backend focused, so i speak server-ish
 
 ---
 
@@ -34,22 +33,7 @@ i want to understand the design before i write the code. i don't write javascrip
 
 ---
 
-### 🔭 currently
 
-- completing **Go for professional developers** — building a workout tracker
-- next: **FinTrack** (project 1) · layered arch · PostgreSQL · Redis · AWS ECS
-
----
-
-### 📊 github stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true" width="48%" />
-</p>
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&hide_border=true" width="98%" />
-</p>
 
 <!-- reference links -->
 [linkedin-badge]: https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white
